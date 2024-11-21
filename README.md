@@ -141,7 +141,7 @@ await writer.WriteChunksAsync("destination.csv", chunks);
 
 ## Contributors
 
-- ** Fiordi Toska ** - Project Developer
+- **Fiordi Toska** - Project Developer
 - Contributions welcome! Feel free to submit a pull request or raise an issue.
 
 ---
