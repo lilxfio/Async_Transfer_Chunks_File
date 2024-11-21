@@ -21,7 +21,7 @@ A robust, asynchronous file processing utility designed for handling large text 
 
 ## Introduction
 
-This project provides a utility for processing files asynchronously. It reads data from a source file in manageable chunks and writes it to a destination file. The project aims to handle large files efficiently without excessive memory consumption. Key functionality includes reading and writing operations, error handling, and test coverage for edge cases like empty files or non-existent source files.(Depending on data types, a rough estimate is 4-5 seconds per 1gb)
+This project provides a utility for processing files asynchronously. It reads data from a source file in manageable chunks and writes it to a destination file. The project aims to handle large files efficiently without excessive memory consumption. Key functionality includes reading and writing operations, error handling, and test coverage for edge cases like empty files or non-existent source files.
 
 ---
 
@@ -33,14 +33,13 @@ This project provides a utility for processing files asynchronously. It reads da
 - **Unit Testing**: Comprehensive test coverage for all modules.
 - **Extensible Design**: Modular architecture for easy integration and enhancements.
 
-```
+---
 
 ## Installation
 
 ### Prerequisites
 - [.NET SDK](https://dotnet.microsoft.com/download) (6.0 or later)
-```
-```
+
 ### Build Project
 ```bash
 dotnet build
