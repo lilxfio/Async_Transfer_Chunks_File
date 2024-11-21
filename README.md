@@ -41,7 +41,7 @@ This project provides a utility for processing files asynchronously. It reads da
 - [.NET SDK](https://dotnet.microsoft.com/download) (6.0 or later)
 
 ```
-
+```
 ### Build Project
 ```bash
 dotnet build
