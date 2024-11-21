@@ -33,13 +33,12 @@ This project provides a utility for processing files asynchronously. It reads da
 - **Unit Testing**: Comprehensive test coverage for all modules.
 - **Extensible Design**: Modular architecture for easy integration and enhancements.
 
----
+```
 
 ## Installation
 
 ### Prerequisites
 - [.NET SDK](https://dotnet.microsoft.com/download) (6.0 or later)
-
 ```
 ```
 ### Build Project
