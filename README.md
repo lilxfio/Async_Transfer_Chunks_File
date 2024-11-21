@@ -40,10 +40,6 @@ This project provides a utility for processing files asynchronously. It reads da
 ### Prerequisites
 - [.NET SDK](https://dotnet.microsoft.com/download) (6.0 or later)
 
-### Clone Repository
-```bash
-git clone https://github.com/your-repo/file-processing-utility.git
-cd file-processing-utility
 ```
 
 ### Build Project
